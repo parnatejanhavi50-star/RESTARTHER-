@@ -1,5 +1,8 @@
 # RESTARTHER-
 Restart Her – Career comeback platform for women
+
+
+
 Restart Her is an ideathon project designed to help women restart their careers after a career break.
 💡 Problem
 Many women take career breaks due to family responsibilities, competitive exam preparation, personal reasons, or other life circumstances. Returning to the workforce can be difficult because of skill gaps, changing industry requirements, and lack of personalized guidance.
